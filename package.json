@@ -1,0 +1,22 @@
+{
+  "name": "indeprods.js",
+  "version": "1.0.0",
+  "description": "friend links of all indiehackers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmlanche/indeprods-js.git"
+  },
+  "keywords": [
+    "indeprods"
+  ],
+  "author": "cmlanche.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmlanche/indeprods-js/issues"
+  },
+  "homepage": "https://github.com/cmlanche/indeprods-js#readme"
+}
