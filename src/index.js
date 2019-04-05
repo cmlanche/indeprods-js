@@ -69,6 +69,30 @@ function buildBody() {
         {
             name: '888.dev',
             link: 'https://888.dev'
+        },
+        {
+            name: 'codeshif',
+            link: 'https://www.codeshif.com/'
+        },
+        {
+            name: 'Echo Pan',
+            link: 'https://freedom.moe/'
+        },
+        {
+            name: '顾北',
+            link: 'http://www.hellosw.com.cn/'
+        },
+        {
+            name: '风继续吹',
+            link: 'https://www.v2ux.com/blog/'
+        },
+        {
+            name: 'lovedai2010',
+            link: 'https://codegulu.cn/'
+        },
+        {
+            name: 'zhang-yi',
+            link: 'https://zhangyi2099.github.io/'
         }
     ]
 
