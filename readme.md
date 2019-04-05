@@ -6,7 +6,7 @@ indeprods是Independent Products的缩写，分别取这两个单词的前四个
 把独立开发者的信息汇集到一个js插件上，可以通过自定义的配置，修改js插件的表现，凡是在本项目注册的用户，即可以在列表中展现，并要求该用户在其网站中添加本js插件。
 
 ### 独立开发者群
-这是我个人维护的一个微信群，主要讨论[微创业](https://www.v2ex.com/t/539137#reply86)项目方面的事情
+这是我个人维护的一个微信群，主要讨论[微创业](https://www.v2ex.com/t/539137#reply86)项目方面的事情，衍生出了本插件项目。
 
 ### 效果
 
@@ -57,7 +57,7 @@ or
 npm run build
 ```
 
-最终会再dist目录生成`indeprods.js`
+最终会在dist目录生成`indeprods.js`
 
 欢迎在[issues](https://github.com/cmlanche/indeprods-js/issues)中提意见和提交pr
 
