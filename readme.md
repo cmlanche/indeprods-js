@@ -8,5 +8,12 @@ indeprods是Independent Products的缩写，分别取这两个单词的前四个
 ### 独立开发者群
 这是我个人维护的一个微信群，主要讨论[微创业](https://www.v2ex.com/t/539137#reply86)项目方面的事情，加我微信cmlanche，我拉你进群
 
+### 安装
+```
+npm i webpack webpack --save-dev
+npm install --save-dev css-loader
+npm install --save-dev babel-loader @babel/core
+```shell
+
 ### 开源协议
 [996.icu](https://github.com/996icu/996.ICU)
