@@ -1,0 +1,37 @@
+.indeprods {
+    border: 1px gray solid;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 5px;
+}
+
+.indeprods .indeprods-header h3{
+    font-size: 14px;
+    margin: 4px 0;
+}
+
+.indeprods .indeprods-body ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 8px 0;
+}
+
+.indeprods .indeprods-body ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #333;
+}
+
+.indeprods .indeprods-body ul li a:hover {
+    text-decoration: underline;
+}
+
+.indeprods .indeprods-footer a {
+    font-size: 12px;
+    text-decoration: none;
+    color: lightgray;
+}
+
+.indeprods .indeprods-footer a:hover {
+    text-decoration: underline;
+}
