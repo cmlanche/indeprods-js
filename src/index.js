@@ -1,13 +1,15 @@
 import css from './default.css';
 
 document.addEventListener('DOMContentLoaded', function(){
-    let container = document.querySelector('.indeprods')
-    console.log(container)
-
-    container.innerHTML = 
-        buildHeader() + 
-        buildBody() + 
-        buildFooter()
+    let container = document.querySelector('div.indeprods')
+    if(container) {
+        container.innerHTML = 
+            buildHeader() + 
+            buildBody() + 
+            buildFooter()
+    } else {
+        console.error("ERR: Please set a div with class .indeprods selector!")
+    }
 })
 
 function buildALink(name, link) {
